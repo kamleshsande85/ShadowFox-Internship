@@ -1,0 +1,17 @@
+/
+/AJAX/
+/Mod_Rewrite_Shop/
+/hpp/
+/images/
+/Flash/
+/categories.php
+/index.php
+/artists.php
+/disclaimer.php
+/guestbook.php
+/cart.php
+/AJAX/index.php
+/userinfo.php
+/login.php
+/search.php
+/Flash/add.swf
